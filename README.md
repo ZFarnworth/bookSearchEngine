@@ -21,7 +21,9 @@ A MERN stack application that uses Google Books API and allows a user to login, 
 
 ## Deployment
 
-[Live Deployment]()
+[Live Deployment](https://book-search-enginezzz.herokuapp.com/)
+
+![image](./img/bookSearch.png)
 
 ## User Story
 
