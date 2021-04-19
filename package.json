@@ -18,8 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "graphql": "^15.5.0",
     "heroku": "^7.43.2",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "mongoose": "^5.12.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"

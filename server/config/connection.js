@@ -9,3 +9,5 @@ mongoose.connect(MONGODB_URI, {
   useCreateIndex: true,
   useFindAndModify: true,
 });
+
+module.exports = mongoose.connection;
